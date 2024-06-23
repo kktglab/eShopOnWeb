@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: ea6978a7-00d7-47db-8314-c82b1f89f30f
-  WEBAPP-NAME: GH-Action-eshoponweb
+  WEBAPP-NAME: az400-webapp-kruchu
 
 
 jobs:
